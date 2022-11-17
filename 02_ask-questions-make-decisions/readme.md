@@ -1,5 +1,8 @@
 ## [C​ourse 2 – Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics)
 
+&nbsp;
+![cert](02_ask-questions-make-decisions.png)
+
 This is the second course in the Google Data Analytics Certificate. These courses will equip you with the skills needed to apply to introductory-level data analyst jobs. You’ll build on your understanding of the topics that were introduced in the first Google Data Analytics Certificate course. The material will help you learn how to ask effective questions to make data-driven decisions, while connecting with stakeholders’ needs. Current Google data analysts will continue to instruct and provide you with hands-on ways to accomplish common data analyst tasks with the best tools and resources.
 
 &nbsp;
