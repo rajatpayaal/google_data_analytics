@@ -2,7 +2,7 @@
 
 &nbsp;
 
-![cert](google-data-analytics.pdf)
+![cert](google data analytics certi.png)
 
 * This repository written for reference and self-documentation purpose
 * Feel free to contribute!
