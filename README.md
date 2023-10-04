@@ -1,6 +1,6 @@
 ## [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
-![cert](https://raw.githubusercontent.com/rajatpayaal/google_data_analytics/blob/master/google-data-analytics.jpg)
+![cert](https://imgur.com/zOrx7kt.jpg)
 &nbsp;
 
 * This repository written for reference and self-documentation purpose
